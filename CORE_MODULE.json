@@ -1,6 +1,6 @@
 {
-  "name": "dc",
-  "description": "DC",
+  "name": "dc-hv",
+  "description": "Nova Core DC-HV module",
   "chip": "STM32F303CC",
   "required_packages": [
     "stm32_qei",
